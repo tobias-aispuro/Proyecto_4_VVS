@@ -5,3 +5,6 @@ reports/
 
 # Planilla de la cátedra (material no propio)
 *.xlsx
+
+# Instrucciones locales de Claude Code
+CLAUDE.md
