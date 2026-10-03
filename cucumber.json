@@ -1,0 +1,7 @@
+{
+  "default": {
+    "paths": ["features/**/*.feature"],
+    "require": ["features/**/*.js"],
+    "format": ["progress", "html:reporte.html"]
+  }
+}

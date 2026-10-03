@@ -1,0 +1,7 @@
+node_modules/
+reporte.html
+reports/
+.DS_Store
+
+# Planilla de la cátedra (material no propio)
+*.xlsx
